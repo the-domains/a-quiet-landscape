@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Quiet Landscape]]></title>
+        <description><![CDATA[A Quiet Landscape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 00:23:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba102b5f143bdb7563072ad952c0747b5f362fd4.jpg" alt="" title="">]]></description>
+            <link>undefineda89df440-0482-44ba-8799-a4aabaa358ae/index.html</link>
+            <guid isPermaLink="false">a89df440-0482-44ba-8799-a4aabaa358ae</guid>
+            <pubDate>Mon, 21 Dec 2015 00:23:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
